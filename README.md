@@ -1,13 +1,13 @@
 # Phishing-Email-Analysis
  <br>
 
- ## ⚠️  Disclaimer
+ ## Disclaimer
 
 * **Educational & Research Purpose Only:** This analysis report and associated artifacts are compiled strictly for educational, threat research, and defensive security purposes. 
 * **Defanged Indicators:** All malicious URLs, IP addresses, and domain names within this documentation have been intentionally defanged to prevent accidental execution or navigation. Do not attempt to re-enable or visit these domains outside of a dedicated, isolated sandbox environment.
 * **No Malicious Code Redistribution:** This repository contains static forensic documentation and metadata extracted from the message source. It does not host executable malware, active exploit payloads, or weaponized scripts.
 
-## 🌐 Sample Source & Acknowledgments
+## Source & Acknowledgments
 
 * **Sample Origin:** The analyzed `.eml` sample was sourced from the open-source threat repository **PhishPot** by **rf-peixoto/phishing_pot.git** (https://github.com/rf-peixoto/phishing_pot)
 * **Analysis Scope:** All forensics conducted in this report are based strictly on static source code analysis of the raw email file (`.eml`). No active infrastructure was dynamically interacted with or exploited during this investigation.
